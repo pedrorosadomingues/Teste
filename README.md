@@ -1,2 +1,2 @@
-Este repositório contém um projeto de teste técnico para avaliação em um processo seletivo. O projeto demonstra habilidades em desenvolvimento back-end, incluindo o uso de APIs, bancos de dados e lógica de negócios.
+This repository contains a technical test project for evaluation in a selection process. The project demonstrates backend development skills, including the use of APIs, databases, and business logic.
 
